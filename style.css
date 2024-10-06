@@ -4,7 +4,7 @@ body{
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-image: url(https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2023/01/milky_way_galaxy_821251324.jpg);
+    background-image: url("https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2023/01/milky_way_galaxy_821251324.jpg");
     background-size:cover;
 }
 
